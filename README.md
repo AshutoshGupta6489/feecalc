@@ -1,21 +1,31 @@
-# Getting Started with Create React App
+# Fee Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is built using [Create React App](https://github.com/facebook/create-react-app).
 
-## Steps to run
+## Getting Started
 
-### you need to have nodejs installed
+You can also run the app by simply clicking on this [link](https://ashutoshgupta6489.github.io/feecalc/).
 
-In the project directory, you can run:
-### `npm i`
-to install all the required dependancy 
+## Alternative Method
 
-### `npm start`
+To run the app, you need to have Node.js installed on your machine.
+1. Clone this repository to your local machine:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    ```bash
+    git clone https://github.com/ashutoshgupta6489/feecalc.git
+    cd feecalc
+    ```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Install the project dependencies:
 
-## 2nd way to run the app:
+    ```bash
+    npm install
+    ```
+
+3. Run the development server:
+
+    ```bash
+    npm start
+    ```
+
+    Open [http://localhost:3000](http://localhost:3000) in your browser to view the app. The page will automatically reload when you make edits, and lint errors will be displayed in the console.
