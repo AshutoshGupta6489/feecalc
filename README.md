@@ -4,7 +4,7 @@ This project is built using [Create React App](https://github.com/facebook/creat
 
 ## Getting Started
 
-### You can also run the app by simply clicking on this [link](https://ashutoshgupta6489.github.io/feecalc/).
+#### You can also run the app by simply clicking on this [link](https://ashutoshgupta6489.github.io/feecalc/).
 
 ## Alternative Method
 
